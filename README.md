@@ -1,9 +1,9 @@
 # MD/
-run/
+<b>run/</b>
 
   run scripts for MD simulations
 
   
-analysis/
+<b>analysis/</b>
 
   analysis script (density_calculations.py) - Python script for article "INORGANIC POLYPHOSPHATE REGULATES FUNCTIONS OF THYMOCYTES VIA ACTIVATION OF P2X PURINORECEPTORS"
