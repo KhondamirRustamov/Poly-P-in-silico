@@ -1,5 +1,8 @@
-# Poly-P-in-silico
-run scripts for MD simulations 
+# MD
+- run
+  run scripts for MD simulations
+- analysis
+  analysis script (density.py)
 
 
 # Density calculation
