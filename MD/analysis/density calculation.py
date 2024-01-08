@@ -1,7 +1,7 @@
 filein = open('changing_density1.xvg', 'w')
 filein1 = open('changing_density1.txt', 'w')
 
-len = 130 # number of gmx density files from trajectories
+len = 500 # number of gmx density files from trajectories
 
 # read minimum water densities from xvg files
 for i in range(len):
